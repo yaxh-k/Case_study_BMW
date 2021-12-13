@@ -15,3 +15,7 @@ Case_study_csv's has All the CSV files generated for the code
 
 
 
+
+BMW Case Study.ppt has a Presentation Explaining Task 1
+
+
